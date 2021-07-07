@@ -1,0 +1,4 @@
+3.Respective Letters Count in the given sentence/string 
+  Input:aaaabbbbcccaabb
+  Output:a4b4c3a2
+**********************************************************
